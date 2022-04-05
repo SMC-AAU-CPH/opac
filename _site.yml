@@ -1,6 +1,6 @@
 name: "dif-project"
 title: "Data Infrastructure Framework Project"
-base_url: https://steno-aarhus.github.io/dif-project/
+base_url: https://smc-aau-cph.github.io/opac/
 include:
     - "README.html"
     - ".nojekyll"
@@ -16,16 +16,16 @@ description: |
   Application to the Novo Nordisk Foundation Data Science Research Infrastructure grant.
 output_dir: "docs"
 theme: theme.css
-repository_url: https://github.com/steno-aarhus/dif-project
+repository_url: https://github.com/SMC-AAU-CPH/opac/
 creative_commons: CC BY
 navbar:
   left:
     - icon: "fas fa-home"
       href: index.html
     - icon: "fas fa-globe"
-      href: "https://www.stenoaarhus.dk/research"
+      href: "https://cerkut.github.io/"
     - icon: "fab fa-twitter"
-      href: "https://twitter.com/StenoAarhusRes"
+      href: "https://twitter.com/cerkut1"
   source_url: true
 output:
     distill::distill_article:

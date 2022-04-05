@@ -1,5 +1,5 @@
 ---
-title: "A framework for an open and scalable infrastructure for health data exemplified by the DD2 initiative"
+title: "Reproduceable and Responsible AI Infrastructure for Scalable Microservices with MLOps on delay-critical A/V data (OPAC)"
 site: distill::distill_website
 bibliography: "resources/references.bib"
 csl: "resources/vancouver.csl"
