@@ -1,13 +1,13 @@
-# NNF Data Science Research Infrastructure Grant 2021
+# NNF Data Science Research Infrastructure Grant 2022
 
 ## Description of application
 
 Key bits of information were taken from the full description from the links
 below:
 
-- Application call: [https://novonordiskfonden.dk/en/grants/data-science-research-infrastructure-2021/](https://novonordiskfonden.dk/en/grants/data-science-research-infrastructure-2021/)
+- Application call: [https://novonordiskfonden.dk/en/grants/data-science-research-infrastructure-2022/](https://novonordiskfonden.dk/en/grants/data-science-research-infrastructure-2022)
 
-- More details: [https://novonordiskfonden.dk/wp-content/uploads/Data-Science-Research-Infrastructure-guidelines-2021-1.pdf](https://novonordiskfonden.dk/wp-content/uploads/Data-Science-Research-Infrastructure-guidelines-2021-1.pdf)
+- More details: [https://novonordiskfonden.dk/wp-content/uploads/Data-Science-Research-Infrastructure-guidelines-2021-1.pdf](https://novonordiskfonden.dk/wp-content/uploads/Data-Science-Research-Infrastructure-guidelines-2022.pdf)
 
 ### Key points and takeaways
 
@@ -39,6 +39,8 @@ Infrastructure must **state-of-the-art** and is defined as:
 - _Computational_ infrastructures, including supercomputers, GPUs, _storage_, software, etc.
 - _Databases and data resources, including data collection, cleaning, annotation, integration, management, etc._
 - Includes building and maintenance of existing databases if it promotes _collaboration_ and _FAIR_ (Findable, Accessible, Interoperable, Reusable) principles, as well as _secure_ and _ethical_ use of such data.
+- Data-generating technologies, including, but not limited to, sensors, instruments, omics platforms, etc
+
 
 ### Assessment criteria
 
